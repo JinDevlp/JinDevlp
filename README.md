@@ -1,9 +1,6 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**JinDevlp/JinDevlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at NuCamp.
 - 🌱 I’m currently learning Python, Postgres SQL, Docker, Flask, Django Amazon AWS, Microsoft Azure, Cloud, DevOps.
@@ -20,5 +17,3 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
--->

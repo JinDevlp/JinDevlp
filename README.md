@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studying at NuCamp.
+- 🔭 I’m currently studying back-end at NuCamp.
 - 🌱 I’m currently learning Python, Postgres SQL, Docker, Flask, Django Amazon AWS, Microsoft Azure, Cloud, DevOps.
 - 😄 I have studied and very familiar with UX Design as well.
 - ⚡ Fun fact: I am bilingual in English and Korean 🇺🇸🇰🇷

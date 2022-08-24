@@ -1,5 +1,6 @@
  Hi there 👋
 
+![Jin Banner](https://user-images.githubusercontent.com/91814116/181105046-804254ff-edbf-47d6-b4da-c58c19161749.png)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)

@@ -1,4 +1,4 @@
- Hi there 👋
+
 
 ![Jin Banner](https://user-images.githubusercontent.com/91814116/181105046-804254ff-edbf-47d6-b4da-c58c19161749.png)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -10,7 +10,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-- 🔭 I’m currently studying back-end at NuCamp.
+- 🔭 I’m currently studying back-end at NuCamp. ｡･:*:･ﾟ★
 - 🌱 Python, Postgres SQL, Docker, Flask, Django Amazon AWS, Microsoft Azure, Cloud, DevOps.
 - 😄 I have studied and very familiar with UX Design as well.
 - ⚡ Fun fact: I am bilingual in English and Korean 🇺🇸🇰🇷

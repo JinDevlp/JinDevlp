@@ -1,7 +1,11 @@
 # Hi I'm Jin 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-JinChoi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjinchoi/)](https://www.linkedin.com/in/devjinchoi/)
-[![Gmail Badge](https://img.shields.io/badge/-jinchoi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jinhunchoi94@gmail.com)](mailto:jinhunchoi94@gmail.com)
+[![Linkedin Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&llink=https://www.linkedin.com/in/devjinchoi/)](https://www.linkedin.com/in/devjinchoi/)
+
+
+- <a href="https://jinchoidev.com/">:computer:	 Resume Website </a> 
+- <a href="https://r3svr02d9d.execute-api.us-east-1.amazonaws.com/dev/"> :link:	Django Project Live Link </a>
+
 
 ## About me
 

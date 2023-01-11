@@ -9,9 +9,9 @@
 
 ## About me
 
-- 👨🏻‍💻 Backend developer who loves Python, Cloud and Problem solving
+- 👨🏻‍💻 I love concentrating and fell in love with developing with Python
 - 🤝 I have experience in consulting and management
-- 😄 I have studied and very familiar with UX Design as well
+- 😄 I have studied and know the UX process as well
 - 🇺🇸🇰🇷 I am bilingual in English and Korean
 
 

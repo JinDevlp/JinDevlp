@@ -9,9 +9,9 @@
 
 ## About me
 
-- 👨🏻‍💻 I love concentrating and fell in love with developing with Python
-- 🤝 I have experience in consulting and management
-- 😄 I have studied and know the UX process as well
+- 👨🏻‍💻 I've always enjoyed being immersed and eventually discovered my passion for Software Development
+- 🤝 I have experience in Client-Consulting and Team Management
+- 😄 I understand and can conduct UX Process/Design
 - 🇺🇸🇰🇷 I am bilingual in English and Korean
 
 

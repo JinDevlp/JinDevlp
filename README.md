@@ -3,9 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&llink=https://www.linkedin.com/in/devjinchoi/)](https://www.linkedin.com/in/devjinchoi/)
 
 
-- <a href="https://jinchoidev.com/">:computer:	  Website </a> 
-
-
 ## About me
 
 - 👨🏻‍💻 I've always enjoyed being immersed and eventually discovered my passion for Software Development
